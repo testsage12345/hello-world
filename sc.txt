@@ -1,0 +1,15 @@
+# edit file /etc/awslogs/awscli.conf
+region = us-west-1
+#
+
+
+
+chkconfig awslogs on
+
+history -c
+clear
+exit
+
+history -c
+clear
+exit # exit ssh
